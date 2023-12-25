@@ -1,3 +1,28 @@
+**#Task Manager App**
+#This Task Manager app is built using ReactJS to help users manage their tasks efficiently. It allows users to add, track the progress, and mark tasks as completed, providing a comprehensive way to organize tasks effectively.
+
+**#Features**
+**Add Tasks:** Users can easily add new tasks, specifying the title and details.
+
+**Track Task Status:** Tasks are categorized as 'Added', 'Started', and 'Completed', making it simple to track their progress.
+
+**Update Task Status:** Users can change the status of tasks by moving them between different categories.
+
+**#Installation**
+To run this application locally, follow these steps:
+
+Clone the repository using git clone https://github.com/your-username/task-manager.git.
+Navigate to the project directory.
+Run npm install to install the necessary dependencies.
+Run npm start to start the development server.
+Open http://localhost:3000 in your browser to view the app.
+
+**Technologies Used**
+ReactJS
+JavaScript
+HTML5 & CSS3
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
