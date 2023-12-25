@@ -1,0 +1,7 @@
+.task_container{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 10px;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px gray;
+}

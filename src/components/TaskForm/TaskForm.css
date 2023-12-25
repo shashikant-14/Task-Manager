@@ -1,0 +1,17 @@
+.task_form{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.task_form input{
+    width: 80%;
+    max-width: 250px;
+    padding: 2px 5px;
+}
+
+.task_form button{
+    width: 20%;
+}

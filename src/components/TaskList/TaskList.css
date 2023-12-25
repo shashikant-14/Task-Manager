@@ -1,0 +1,8 @@
+.task_category{
+    padding: 5px;
+}
+
+.tasklist{
+    height: 80%;
+    overflow: auto;
+}
